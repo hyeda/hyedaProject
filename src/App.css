@@ -1,0 +1,22 @@
+.App {
+  text-align: center;
+}
+
+.app-style {
+  padding: 100px;
+  display: flex;
+  gap: 12px;
+}
+
+.squareStyle {
+  border: 2px solid greenyellow; 
+  border-radius: 8px;         
+  padding: 20px;             
+  text-align: center;         
+  width: 300px;              
+  height: 100px;             
+  display: flex;             
+  flex-direction: column;     
+  justify-content: center;    
+  align-items: center;       
+}
